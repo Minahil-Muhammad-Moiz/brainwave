@@ -1,5 +1,6 @@
 import Benefits from "./Components/Benefits";
 import Collaboration from "./Components/Collaboration";
+import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 import Pricing from "./Components/Pricing";
@@ -18,6 +19,7 @@ const App = () => {
         <Services />
         <Pricing />
         <Roadmap />
+        <Footer />
       </div>
       <ButtonGradient />
     </>
